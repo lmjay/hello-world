@@ -1,2 +1,2 @@
 # hello-world
-hello world tutoria
+hello world tutorial
